@@ -13,9 +13,9 @@
   "author": "Experience",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Experieence/Zoho-CRM-Google-Sheets-Integration/issues"
+    "url": "https://github.com/Experieence/Zoho-CRM-Google-Sheets-Integration"
   },
-  "homepage": "https://github.com/Experieence/Zoho-CRM-Google-Sheets-Integration/tree/main,
+  "homepage": "https://github.com/Experieence/Zoho-CRM-Google-Sheets-Integration/tree/main",
   "dependencies": {
     "axios": "^0.21.1",
     "dotenv": "^10.0.0"
